@@ -1,0 +1,26 @@
+.my-3 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem
+}
+
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem
+}
+
+.flex-1 {
+  flex: 1 1 0%
+}
+
+.items-center {
+  align-items: center
+}
+
+.justify-center {
+  justify-content: center
+}
+
+.bg-gray-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity))
+}
